@@ -1,0 +1,16 @@
+text,intent
+I was charged twice,billing
+Where can I download my invoice?,billing
+Please refund my latest purchase,billing
+My password reset link is not working,technical
+The desktop app crashes after installation,technical
+I cannot sign in,technical
+What features are included in Premium?,product
+Compare Basic and Premium,product
+How much does the business plan cost?,product
+This service is unacceptable,complaint
+I want to escalate this complaint,complaint
+I am very disappointed with support,complaint
+What are your support hours?,faq
+How can I contact TechMart?,faq
+Where can I find the policy?,faq

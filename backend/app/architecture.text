@@ -1,0 +1,19 @@
+Customer
+   ↓
+React Frontend
+   ↓
+FastAPI Backend
+   ↓
+Intent Detection / Agent Router
+   ↓
+Billing | Technical | Product | Complaint | FAQ
+   ↓
+RAG
+   ↓
+Company PDFs → Embeddings → FAISS
+   ↓
+Groq / Llama
+   ↓
+Final Response
+   ↓
+PostgreSQL

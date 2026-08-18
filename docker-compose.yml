@@ -1,0 +1,14 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: support_ai
+      POSTGRES_USER: support
+      POSTGRES_PASSWORD: support
+    ports:
+      - "5433:5432"
+    volumes:
+      - support_postgres:/var/lib/postgresql/data
+
+volumes:
+  support_postgres:
